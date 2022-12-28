@@ -5,9 +5,9 @@ module.exports = {
     // Your Name
     name: 'Pitikorn Khlaisamniang',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Pitikorn Khlaisamniang | Developer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `ภาษาไทยไหวมะ`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
