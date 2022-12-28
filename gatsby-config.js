@@ -7,11 +7,11 @@ module.exports = {
     // Main Site Title
     title: `Pitikorn Khlaisamniang | Developer`,
     // Description that goes under your name in main bio
-    description: `ภาษาไทยไหวมะ`,
+    description: `Was wir wissen, ist ein Tropfen - was wir nicht wissen, ein Ozean (Isacc Newton)`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/pitikorn32`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
