@@ -5,6 +5,7 @@ import React from 'react';
 import Header from '../components/header';
 import Layout from '../components/layout';
 import SectionAbout from '../components/section-about';
+import SectionEdu from '../components/section-edu';
 import SectionBlog from '../components/section-blog';
 import SectionExperience from '../components/section-experience';
 import SectionProjects from '../components/section-projects';
@@ -13,6 +14,7 @@ import SEO from '../components/seo';
 
 const Index = ({ data }) => {
   const about = get(data, 'site.siteMetadata.about', false);
+  const edu = get(data, 'site.siteMetadata.edu', false);
   const projects = get(data, 'site.siteMetadata.projects', false);
   const posts = data.allMarkdownRemark.edges;
   const experience = get(data, 'site.siteMetadata.experience', false);
@@ -24,6 +26,7 @@ const Index = ({ data }) => {
       <SEO />
       <Header metadata={data.site.siteMetadata} noBlog={noBlog} />
       {about && <SectionAbout about={about} />}
+      {edu && <SectionAbout edu={edu} />}
       {projects && projects.length && <SectionProjects projects={projects} />}
       {!noBlog && <SectionBlog posts={posts} />}
       {experience && experience.length && (

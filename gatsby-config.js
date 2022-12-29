@@ -13,10 +13,11 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/pitikorn32`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/pitikorn32/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I am a passionate developer from Thailand and interested in filling a MLOps, DevOps, Data Engineer, Data Scientist or ML Engineer (Part-time) position.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
+    edu: `HUHU`,
     projects: [
       {
         name: 'Devfolio',
