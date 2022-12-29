@@ -17,7 +17,6 @@ module.exports = {
     // Content of the About Me section
     about: `I am a passionate developer from Thailand and interested in filling a MLOps, DevOps, Data Engineer, Data Scientist or ML Engineer (Part-time) position.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    edu: `HUHU`,
     projects: [
       {
         name: 'Devfolio',
