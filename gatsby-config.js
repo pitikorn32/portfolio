@@ -15,44 +15,22 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/pitikorn32/`,
     // Content of the About Me section
-    about: `I am a passionate developer from Thailand and interested in filling a MLOps, DevOps, Data Engineer, Data Scientist or ML Engineer (Part-time) position.`,
+    about: `I am a passionate developer from Thailand who interested in filling a MLOps, DevOps, Data Engineer, Data Scientist or ML Engineer (Part-time) position.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Analysis of Thai Capital Market Linkages: Part I. Bivariate Copula Approach',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'This paper uses Bivariate Copula (semi-parametric statistics) techniques to analyse probabilistic co-movement',
+        link: 'https://paperswithcode.com/paper/analysis-of-thai-capital-market-linkages-part',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Chulalongkorn University',
+        description: 'MS Stat Program, August 2021 - Present',
+        link: 'https://github.com/pitikorn32',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +38,17 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Python, R',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 
+          'MongoDB, PostreSQL, Oracle',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, Agile / Scrum',
       },
     ],
   },
