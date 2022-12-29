@@ -8,8 +8,8 @@ module.exports = {
     title: `Pitikorn Khlaisamniang | Developer`,
     // Description that goes under your name in main bio
     description: `Was wir wissen, ist ein Tropfen - was wir nicht wissen, ein Ozean (Isacc Newton)`,
-    // Optional: Twitter account handle
-    author: `@rfitzio`,
+    // // Optional: Twitter account handle
+    // author: `@rfitzio`,
     // Optional: Github account URL
     github: `https://github.com/pitikorn32`,
     // Optional: LinkedIn account URL
