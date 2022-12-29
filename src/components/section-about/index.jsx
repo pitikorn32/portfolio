@@ -6,7 +6,9 @@ const SectionAbout = ({ about }) => {
   return (
     <Section title="About Me">
       <div className="mb-6">
-        <p>{about} <br /></p>
+        <p>{about}</p>
+      </div>
+      <div className="mb-6">
         <p><b>email:</b> pitikorn32@gmail.com</p>
         <p><b>tel:</b> 092-282-0916</p>
       </div>
