@@ -37,6 +37,12 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
         },
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          // editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -55,6 +61,11 @@ const config = {
           src: 'img/circular-profile-picture.png',
         },
         items: [
+          { 
+            to: "/blog", 
+            label: "Blog", 
+            position: "left" 
+          },
           {
             to: 'my-projects/project-viznet',
             position: 'left',
