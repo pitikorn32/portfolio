@@ -91,7 +91,7 @@ const config = {
             sidebarId: 'aboutSidebar'
           },
           {
-            href: 'https://github.com/Logon27',
+            href: 'https://github.com/pitikorn32',
             position: 'right',
             className: 'navbar-icon',
             'aria-label': 'GitHub Repository',

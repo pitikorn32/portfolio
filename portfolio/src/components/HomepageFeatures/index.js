@@ -28,10 +28,10 @@ const FeatureList = [
     Svg: require('@site/static/img/smartphone.svg').default,
     description: (
       <>
-        <b>Name:</b> Logan Zehm<br></br>
+        <b>Name:</b> Pitikorn Khlaisamniang<br></br>
         <b>Email:</b> loganzehm@gmail.com<br></br>
         <b>Linkedin:</b> <a href="https://www.linkedin.com/in/logan-zehm/" target="_blank">linkedin.com/in/logan-zehm</a><br></br>
-        <b>Github:</b> <a href="https://github.com/Logon27" target="_blank">github.com/Logon27</a><br></br>
+        <b>Github:</b> <a href="https://github.com/pitikorn32" target="_blank">github.com/pitikorn32</a><br></br>
       </>
     ),
   },
