@@ -79,6 +79,12 @@ const config = {
             sidebarId: 'myCerts'
           },
           {
+            to: 'my-blogs/mycerts',
+            position: 'left',
+            label: 'My Blogs',
+            // sidebarId: 'myBlogs'
+          },
+          {
             to: 'about/aboutme',
             position: 'left',
             label: 'About Me',
