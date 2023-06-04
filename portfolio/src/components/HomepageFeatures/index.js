@@ -10,14 +10,16 @@ const FeatureList = [
       <>
       <div id="programming-languages">
           <ul>
-              <li>Java</li>
               <li>Python</li>
-              <li>TypeScript</li>
               <li>SQL</li>
+              <li>PL/SQL</li>
+              <li>NoSQL</li>
+              <li>Go</li>
+              <li>Shell</li>
+              <li>R</li>
               <li>C</li>
-              <li>React</li>
-              <li>JavaScript</li>
-              <li>Scheme</li>
+              <li>MATLAB/Simulink</li>
+              <li>Mathematica</li>
           </ul>
       </div>
       </>
@@ -29,8 +31,8 @@ const FeatureList = [
     description: (
       <>
         <b>Name:</b> Pitikorn Khlaisamniang<br></br>
-        <b>Email:</b> loganzehm@gmail.com<br></br>
-        <b>Linkedin:</b> <a href="https://www.linkedin.com/in/logan-zehm/" target="_blank">linkedin.com/in/logan-zehm</a><br></br>
+        <b>Email:</b> pitikorn32@gmail.com<br></br>
+        <b>Linkedin:</b> <a href="https://www.linkedin.com/in/pitikorn32/" target="_blank">linkedin.com/in/pitikorn32</a><br></br>
         <b>Github:</b> <a href="https://github.com/pitikorn32" target="_blank">github.com/pitikorn32</a><br></br>
       </>
     ),
@@ -39,11 +41,31 @@ const FeatureList = [
     title: 'Misc Skills',
     Svg: require('@site/static/img/edit-tools-ruler.svg').default,
     description: (
-      <>
-        <p className={styles.miscSkills}>Docker</p>
-        <p className={styles.miscSkills}>Kubernetes</p>
-        <p className={styles.miscSkills}>Azure Cloud</p>
-        <p className={styles.miscSkills}>Azure Pipelines</p>
+      // <>
+      //   <p className={styles.miscSkills}>Docker</p>
+      //   <p className={styles.miscSkills}>Apache Airflow</p>
+      //   <p className={styles.miscSkills}>Dagster</p>
+      //   <p className={styles.miscSkills}>Cloud Services (Azure, GCP, AWS)</p>
+      //   <p className={styles.miscSkills}>Terraform</p>
+      //   <p className={styles.miscSkills}>Docker Swarm</p>
+      //   <p className={styles.miscSkills}>CI/CD (Jenkins, Gitlab, Github)</p>
+      //   <p className={styles.miscSkills}>Feast</p>
+      //   <p className={styles.miscSkills}>Web scraping</p>
+      // </>
+      // <>
+      <div id="misc-skills">
+          <ul>
+              <li>Docker</li>
+              <li>Apache Airflow</li>
+              <li>Dagster</li>
+              <li>Cloud Services (Azure, GCP, AWS)</li>
+              <li>Terraform</li>
+              <li>Docker Swarm</li>
+              <li>CI/CD (Jenkins, Gitlab, Github)</li>
+              <li>Feast</li>
+              <li>Web scraping</li>
+          </ul>
+      </div>
       </>
     ),
   },
