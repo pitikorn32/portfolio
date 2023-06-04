@@ -52,7 +52,7 @@ const FeatureList = [
       //   <p className={styles.miscSkills}>Feast</p>
       //   <p className={styles.miscSkills}>Web scraping</p>
       // </>
-      // <>
+      <>
       <div id="misc-skills">
           <ul>
               <li>Docker</li>
