@@ -62,7 +62,7 @@ const config = {
         },
         items: [
           {
-            to: 'my-projects/project-viznet',
+            to: 'my-projects/project01',
             position: 'left',
             label: 'My Projects',
             sidebarId: 'projectsSidebar'

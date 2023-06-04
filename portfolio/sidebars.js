@@ -23,25 +23,31 @@ const sidebars = {
   // label: 'Tutorial',
   // items: ['my-projects/huffman','my-projects/testing'],
 
+//   projectsSidebar: [
+//     'my-projects/project-viznet',
+//     'my-projects/aeronet',
+//     'my-projects/digit-recognition-canvas',
+//     'my-projects/array-sorting-visualized',
+//     {
+//       type: 'category',
+//       label: 'Assembler / Simulator',
+//       items: ['my-projects/mips-assembler','my-projects/mips-simulator'],
+//       collapsed: false,
+//     },
+//     'my-projects/data-cache-simulator',
+//     'my-projects/socket-chatroom',
+//     'my-projects/simple-shell',
+//     'my-projects/c-archive',
+//     'my-projects/notepad-light',
+//     'my-projects/huffman',
+//     'my-projects/vigenere-cipher',
+//     'my-projects/neural-network-canvas',
+//   ],
+// };
+
   projectsSidebar: [
-    'my-projects/project-viznet',
-    'my-projects/aeronet',
-    'my-projects/digit-recognition-canvas',
-    'my-projects/array-sorting-visualized',
-    {
-      type: 'category',
-      label: 'Assembler / Simulator',
-      items: ['my-projects/mips-assembler','my-projects/mips-simulator'],
-      collapsed: false,
-    },
-    'my-projects/data-cache-simulator',
-    'my-projects/socket-chatroom',
-    'my-projects/simple-shell',
-    'my-projects/c-archive',
-    'my-projects/notepad-light',
-    'my-projects/huffman',
-    'my-projects/vigenere-cipher',
-    'my-projects/neural-network-canvas',
+    'my-projects/project01',
+    'my-projects/project02',
   ],
 };
 
