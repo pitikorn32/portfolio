@@ -41,31 +41,16 @@ const FeatureList = [
     title: 'Misc Skills',
     Svg: require('@site/static/img/edit-tools-ruler.svg').default,
     description: (
-      // <>
-      //   <p className={styles.miscSkills}>Docker</p>
-      //   <p className={styles.miscSkills}>Apache Airflow</p>
-      //   <p className={styles.miscSkills}>Dagster</p>
-      //   <p className={styles.miscSkills}>Cloud Services (Azure, GCP, AWS)</p>
-      //   <p className={styles.miscSkills}>Terraform</p>
-      //   <p className={styles.miscSkills}>Docker Swarm</p>
-      //   <p className={styles.miscSkills}>CI/CD (Jenkins, Gitlab, Github)</p>
-      //   <p className={styles.miscSkills}>Feast</p>
-      //   <p className={styles.miscSkills}>Web scraping</p>
-      // </>
       <>
-      <div id="misc-skills">
-          <ul>
-              <li>Docker</li>
-              <li>Apache Airflow</li>
-              <li>Dagster</li>
-              <li>Cloud Services (Azure, GCP, AWS)</li>
-              <li>Terraform</li>
-              <li>Docker Swarm</li>
-              <li>CI/CD (Jenkins, Gitlab, Github)</li>
-              <li>Feast</li>
-              <li>Web scraping</li>
-          </ul>
-      </div>
+        <p className={styles.miscSkills}>Docker</p>
+        <p className={styles.miscSkills}>Apache Airflow</p>
+        <p className={styles.miscSkills}>Dagster</p>
+        <p className={styles.miscSkills}>Feast</p>
+        <p className={styles.miscSkills}>Terraform</p>
+        <p className={styles.miscSkills}>Docker Swarm</p>
+        <p className={styles.miscSkills}>Web scraping</p>
+        <p className={styles.miscSkills}>Cloud Services (Azure, GCP, AWS)</p>
+        <p className={styles.miscSkills}>CI/CD (Jenkins, Gitlab, Github)</p>
       </>
     ),
   },
