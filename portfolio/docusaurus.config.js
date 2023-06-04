@@ -13,7 +13,7 @@ const config = {
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/circular-profile-picture.png',
+  favicon: 'img/profile-picture.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -58,7 +58,7 @@ const config = {
         hideOnScroll: false,
         logo: {
           alt: 'My Github Profile Pic',
-          src: 'img/circular-profile-picture.png',
+          src: 'img/profile-picture.png',
         },
         items: [
           {

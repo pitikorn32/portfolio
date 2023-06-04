@@ -44,10 +44,10 @@ const FeatureList = [
       <>
         <p className={styles.miscSkills}>Docker</p>
         <p className={styles.miscSkills}>Apache Airflow</p>
-        <p className={styles.miscSkills}>Dagster</p>
+        {/* <p className={styles.miscSkills}>Dagster</p>
         <p className={styles.miscSkills}>Feast</p>
         <p className={styles.miscSkills}>Terraform</p>
-        <p className={styles.miscSkills}>Docker Swarm</p>
+        <p className={styles.miscSkills}>Docker Swarm</p> */}
         <p className={styles.miscSkills}>Web scraping</p>
         <p className={styles.miscSkills}>Cloud Services (Azure, GCP, AWS)</p>
         <p className={styles.miscSkills}>CI/CD (Jenkins, Gitlab, Github)</p>
